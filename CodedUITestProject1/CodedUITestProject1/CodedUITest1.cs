@@ -26,7 +26,7 @@ namespace CodedUITestProject1
         public void CodedUITestMethod1()
         {
 
-            Assert.AreEqual(1,1);
+            Assert.AreEqual(1,1);///
             //hellp world
             // To generate code for this test, select "Generate Code for Coded UI Test" from the shortcut menu and select one of the menu items.
         }
